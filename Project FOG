@@ -1,0 +1,9 @@
+# Repositori-personal
+Com instal.lar en ubuntu un servidor fog
+1r Pas: Entren a la pagina de projecte fog i li donen a descargar tar.gz
+2r Pas: Llisten amb ls  cd/ Desktop per veure si esta la versió en tar descargada
+3r Pas: Descomprimint el tar amb la comanda tar -xzvf i el nom del fitxer
+4r Pas: Ja el tar descomprimit
+5e Pas:Entren a la carpeta que hem descomprimit i la llisten
+6e Pas:Entren amb cd/bin que dintre estara el instalador del server fog
+7e Pas: Amb la comanda ./installfog.sh ejecuten la script i ja començen la instal.lació del server
